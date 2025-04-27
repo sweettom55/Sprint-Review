@@ -1,1 +1,5 @@
 # Sprint-Review
+Throughout this project, I learned how important it is to understand user needs and translate them into functional software. Creating user stories helped break down those needs into clear, actionable tasks that guided development and ensured I stayed focused on delivering value. When approaching program development, I found that Agile processes like iterative sprints, backlog prioritization, and regular reflection allowed me to adapt quickly to changes, such as shifting project requirements mid-sprint. These are practices I plan to carry into future development work because they keep projects flexible and user-centered.
+
+Being a good team member in software development means more than just writing code. It involves clear communication, collaboration, and supporting the team by removing blockers and staying aligned with shared goals. Even though I worked solo in this course, I practiced these habits through documentation, test planning, and organizing my work as if I were part of a larger Agile team. This experience reinforced the value of teamwork, adaptability, and continuous improvement in software development.
+
